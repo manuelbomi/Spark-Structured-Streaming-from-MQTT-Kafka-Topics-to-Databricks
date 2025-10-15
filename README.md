@@ -1,4 +1,4 @@
-# Spark Structured Streaming from MQTT Kafka Topics to Databricks - Part 1
+# Spark Structured Streaming from MQTT Kafka Topics to Databricks 
 
 
 ### 1. IoT Devices to Kafka:
